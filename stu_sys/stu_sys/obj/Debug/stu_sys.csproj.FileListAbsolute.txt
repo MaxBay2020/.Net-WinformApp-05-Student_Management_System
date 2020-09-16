@@ -1,0 +1,37 @@
+C:\Users\Max Bay\Desktop\项目、学生管理系统\stu_sys\stu_sys\bin\Debug\stu_sys.exe.config
+C:\Users\Max Bay\Desktop\项目、学生管理系统\stu_sys\stu_sys\bin\Debug\stu_sys.exe
+C:\Users\Max Bay\Desktop\项目、学生管理系统\stu_sys\stu_sys\bin\Debug\stu_sys.pdb
+C:\Users\Max Bay\Desktop\项目、学生管理系统\stu_sys\stu_sys\obj\Debug\stu_sys.csprojAssemblyReference.cache
+C:\Users\Max Bay\Desktop\项目、学生管理系统\stu_sys\stu_sys\obj\Debug\stu_sys.frm_login.resources
+C:\Users\Max Bay\Desktop\项目、学生管理系统\stu_sys\stu_sys\obj\Debug\stu_sys.Properties.Resources.resources
+C:\Users\Max Bay\Desktop\项目、学生管理系统\stu_sys\stu_sys\obj\Debug\stu_sys.csproj.GenerateResource.cache
+C:\Users\Max Bay\Desktop\项目、学生管理系统\stu_sys\stu_sys\obj\Debug\stu_sys.exe
+C:\Users\Max Bay\Desktop\项目、学生管理系统\stu_sys\stu_sys\obj\Debug\stu_sys.pdb
+C:\Users\Max Bay\Desktop\项目、学生管理系统\stu_sys\stu_sys\bin\Debug\MySql.Data.dll
+C:\Users\Max Bay\Desktop\项目、学生管理系统\stu_sys\stu_sys\obj\Debug\stu_sys.csproj.CopyComplete
+C:\Users\Max Bay\Desktop\项目、学生管理系统\stu_sys\stu_sys\obj\Debug\stu_sys.frm_main.resources
+C:\Users\Max Bay\Desktop\项目、学生管理系统\stu_sys\stu_sys\obj\Debug\stu_sys.Frm_add_student.resources
+C:\Users\Max Bay\Desktop\项目、学生管理系统\stu_sys\stu_sys\obj\Debug\stu_sys.Frm_student_list.resources
+C:\Users\Max Bay\Desktop\项目、学生管理系统\stu_sys\stu_sys\obj\Debug\stu_sys.Frm_add_class.resources
+C:\Users\Max Bay\Desktop\项目、学生管理系统\stu_sys\stu_sys\obj\Debug\stu_sys.Frm_class_list.resources
+C:\Users\Max Bay\Desktop\项目、学生管理系统\stu_sys\stu_sys\obj\Debug\stu_sys.Frm_grade_list.resources
+C:\Users\Max Bay\Desktop\项目、学生管理系统\stu_sys\stu_sys\obj\Debug\stu_sys.Frm_modity.resources
+C:\Users\Max Bay\Desktop\项目、学生管理系统\stu_sys\stu_sys\obj\Debug\stu_sys.Frm_class_modify.resources
+D:\工作经历\My Portfolio\03. C#\05. Student_Management_System\stu_sys\stu_sys\bin\Debug\stu_sys.exe.config
+D:\工作经历\My Portfolio\03. C#\05. Student_Management_System\stu_sys\stu_sys\bin\Debug\stu_sys.exe
+D:\工作经历\My Portfolio\03. C#\05. Student_Management_System\stu_sys\stu_sys\bin\Debug\stu_sys.pdb
+D:\工作经历\My Portfolio\03. C#\05. Student_Management_System\stu_sys\stu_sys\obj\Debug\stu_sys.csprojAssemblyReference.cache
+D:\工作经历\My Portfolio\03. C#\05. Student_Management_System\stu_sys\stu_sys\obj\Debug\stu_sys.Frm_add_class.resources
+D:\工作经历\My Portfolio\03. C#\05. Student_Management_System\stu_sys\stu_sys\obj\Debug\stu_sys.Frm_add_student.resources
+D:\工作经历\My Portfolio\03. C#\05. Student_Management_System\stu_sys\stu_sys\obj\Debug\stu_sys.Frm_class_list.resources
+D:\工作经历\My Portfolio\03. C#\05. Student_Management_System\stu_sys\stu_sys\obj\Debug\stu_sys.Frm_class_modify.resources
+D:\工作经历\My Portfolio\03. C#\05. Student_Management_System\stu_sys\stu_sys\obj\Debug\stu_sys.Frm_grade_list.resources
+D:\工作经历\My Portfolio\03. C#\05. Student_Management_System\stu_sys\stu_sys\obj\Debug\stu_sys.frm_login.resources
+D:\工作经历\My Portfolio\03. C#\05. Student_Management_System\stu_sys\stu_sys\obj\Debug\stu_sys.frm_main.resources
+D:\工作经历\My Portfolio\03. C#\05. Student_Management_System\stu_sys\stu_sys\obj\Debug\stu_sys.Frm_modity.resources
+D:\工作经历\My Portfolio\03. C#\05. Student_Management_System\stu_sys\stu_sys\obj\Debug\stu_sys.Frm_student_list.resources
+D:\工作经历\My Portfolio\03. C#\05. Student_Management_System\stu_sys\stu_sys\obj\Debug\stu_sys.Properties.Resources.resources
+D:\工作经历\My Portfolio\03. C#\05. Student_Management_System\stu_sys\stu_sys\obj\Debug\stu_sys.csproj.GenerateResource.cache
+D:\工作经历\My Portfolio\03. C#\05. Student_Management_System\stu_sys\stu_sys\obj\Debug\stu_sys.csproj.CopyComplete
+D:\工作经历\My Portfolio\03. C#\05. Student_Management_System\stu_sys\stu_sys\obj\Debug\stu_sys.exe
+D:\工作经历\My Portfolio\03. C#\05. Student_Management_System\stu_sys\stu_sys\obj\Debug\stu_sys.pdb
